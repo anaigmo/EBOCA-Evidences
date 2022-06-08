@@ -17,11 +17,11 @@ node [shape = rectangle, color="orange"]; "obo:ECO_0000362" "https://w3id.org/eb
 	"NULL" -> "Thesaurus:A8" [ label = "owl:annotatedSource" ];
 	"NULL" -> "Thesaurus:NHC0" [ label = "owl:annotatedSource" ];
 	"NULL" -> "Thesaurus:P375" [ label = "owl:annotatedSource" ];
-	"NULL" -> "Thesaurus:P393" [ label = "owl:annotatedSource" ];
+	"NULL" -> "obo:ECO_0007672" [ label = "owl:annotatedSource" ];
 	"NULL" -> "Thesaurus:P366" [ label = "owl:annotatedSource" ];
 	"NULL" -> "Thesaurus:P107" [ label = "owl:annotatedSource" ];
+	"NULL" -> "Thesaurus:P393" [ label = "owl:annotatedSource" ];
 	"NULL" -> "Thesaurus:P322" [ label = "owl:annotatedSource" ];
-	"NULL" -> "obo:ECO_0007672" [ label = "owl:annotatedSource" ];
 	"NULL" -> "obo:ECO_0000000" [ label = "owl:annotatedSource" ];
 	"NULL" -> "Thesaurus:A32" [ label = "owl:annotatedSource" ];
 	"NULL" -> "Thesaurus:P98" [ label = "owl:annotatedSource" ];
@@ -33,8 +33,8 @@ node [shape = rectangle, color="orange"]; "obo:ECO_0000362" "https://w3id.org/eb
 	"NULL" -> "obo:ECO_0000361" [ label = "owl:annotatedSource" ];
 	"NULL" -> "Thesaurus:P385" [ label = "owl:annotatedSource" ];
 	"NULL" -> "Thesaurus:P90" [ label = "owl:annotatedProperty" ];
-	"NULL" -> "Thesaurus:P394" [ label = "owl:annotatedSource" ];
 	"NULL" -> "Thesaurus:P378" [ label = "owl:annotatedSource" ];
+	"NULL" -> "Thesaurus:P394" [ label = "owl:annotatedSource" ];
 	"NULL" -> "Thesaurus:P97" [ label = "owl:annotatedSource" ];
 	"obo:ECO_0007672" -> "obo:ECO_0000000" [ label = "metadata:treeView" ];
 	"http://purl.org/pav/lastUpdateOn" -> "http://purl.org/pav/previousVersion" [ label = "rdfs:seeAlso" ];
